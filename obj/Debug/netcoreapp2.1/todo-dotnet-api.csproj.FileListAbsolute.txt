@@ -1,0 +1,14 @@
+C:\environment\samples\todo-dotnet-api\bin\Debug\netcoreapp2.1\todo-dotnet-api.deps.json
+C:\environment\samples\todo-dotnet-api\bin\Debug\netcoreapp2.1\todo-dotnet-api.runtimeconfig.json
+C:\environment\samples\todo-dotnet-api\bin\Debug\netcoreapp2.1\todo-dotnet-api.runtimeconfig.dev.json
+C:\environment\samples\todo-dotnet-api\bin\Debug\netcoreapp2.1\todo-dotnet-api.dll
+C:\environment\samples\todo-dotnet-api\bin\Debug\netcoreapp2.1\todo-dotnet-api.pdb
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.csprojAssemblyReference.cache
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.csproj.CoreCompileInputs.cache
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.RazorAssemblyInfo.cache
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.RazorAssemblyInfo.cs
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.AssemblyInfoInputs.cache
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.AssemblyInfo.cs
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.RazorTargetAssemblyInfo.cache
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.dll
+C:\environment\samples\todo-dotnet-api\obj\Debug\netcoreapp2.1\todo-dotnet-api.pdb
